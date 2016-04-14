@@ -15,8 +15,8 @@ Technology Design Studio Project by Chanelle Francis &amp; Maria Kudriavtceva
 - 1 x Super Glue
 - Soldering Iron
 
-**Link to download Adafruit Feather 32u4 Bluefruit LE libraries and Arduino download**
+###Link to download Adafruit Feather 32u4 Bluefruit LE libraries and Arduino download
 - https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview
 
-##Presentation with all of the building steps and information
+###Presentation with all of the building steps and information
 - Found in the build process folder, the file name is Light Up Boots (Tutorial)
