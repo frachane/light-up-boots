@@ -22,6 +22,7 @@ Technology Design Studio Project by Chanelle Francis &amp; Maria Kudriavtceva
 - The file name is Light Up Boots (Tutorial)
 
 ###Links to videos of building process
-**Testing the velostat sensor** https://www.instagram.com/p/BDl8e-qBL_h/?taken-by=maria_kudrow
+**Strand Test** https://www.instagram.com/p/BDmMh1yBL5k/</br>
+**Testing the velostat sensor** https://www.instagram.com/p/BDl8e-qBL_h/?taken-by=maria_kudrow</br>
 **Final test on shoes** https://www.instagram.com/p/BD3qIWcDPnXb7pmPE9I6h7aBK1GElGLM4WXl6M0/
 
