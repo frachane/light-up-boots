@@ -19,4 +19,4 @@ Technology Design Studio Project by Chanelle Francis &amp; Maria Kudriavtceva
 - https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview
 
 ###Presentation with all of the building steps and information
-- Found in the build process folder, the file name is Light Up Boots (Tutorial)
+- The file name is Light Up Boots (Tutorial)
