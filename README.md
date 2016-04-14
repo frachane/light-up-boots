@@ -23,4 +23,5 @@ Technology Design Studio Project by Chanelle Francis &amp; Maria Kudriavtceva
 
 ###Links to videos of building process
 **Testing the velostat sensor** https://www.instagram.com/p/BDl8e-qBL_h/?taken-by=maria_kudrow
+**Final test on shoes** https://www.instagram.com/p/BD3qIWcDPnXb7pmPE9I6h7aBK1GElGLM4WXl6M0/
 
